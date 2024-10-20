@@ -12,7 +12,7 @@ import com.lms.courseManagementService.repository.ModulesRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.bouncycastle.math.raw.Mod;
-import org.modelmapper.ModelMapper;
+
 import org.springframework.stereotype.Service;
 
 import java.util.Collections;
